@@ -5,28 +5,17 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome!
-
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
-
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+<img src="{{ site.url }}{{ site.baseurl }}/images/Banner.png" width="100%"/><br/>
+Exploring Links Between the Microbiome and Root Anatomy, One Root at a Time!
 </center>
 </div>
 </div>
 <br/>
 
-### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+### Welcome!
+
+I am a National Science Foundation Postdoctoral Research Fellow at the University of Kansas in Dr. Maggie Wagner’s lab. My research investigates the mechanisms by which plants tolerate flooding. While water is essential for plants, too much of it can have dramatic consequences. When plants are flooded, their roots quickly deplete available oxygen, leading to oxygen starvation, the buildup of stress compounds, and ultimately plant death. This stress can fundamentally alter roots at the anatomical level, and these microscopic changes in turn reshape the root habitat occupied by microorganisms such as bacteria, fungi, and viruses. My work aims to explore links between plant genetics, root anatomy, and the microbiome to better understand their combined effects on plant flood responses.

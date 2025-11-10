@@ -1,17 +1,18 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+- name: Dr. Joel F Swift
+  photo: Joel_Swift_headshot.jpg
+  info: NSF Plant Genome Postdoctural Research Fellow, University of Kansas
+  email: joel.swift@ku.edu
+  github: https://github.com/Kenizzer
+  researchgate: https://www.researchgate.net/profile/Joel-Swift
+  scholar: https://scholar.google.com/citations?user=RPLb9zwAAAAJ&hl=en
+  cv: cv/JS_CV.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2022) Ph.D. Biology, Saint Louis University",
+      "(2014) B.S. Inegrative Biology, University of Central Missouri",
+      "(2012) A.A., State Fair Community College"
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2022) Ph.D. Biology, SLU"]
