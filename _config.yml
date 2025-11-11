@@ -2,8 +2,8 @@
 title: Joel F Swift
 email: joel.swift@ku.edu
 description: Academic webpage of Dr. Joel F Swift
-baseurl: "https://Kenizzer.github.io"
-url: ""
+url: "https://kenizzer.github.io"
+baseurl: "/JoelFSwift.github.io"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX

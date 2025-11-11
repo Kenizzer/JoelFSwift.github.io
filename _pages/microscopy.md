@@ -2,7 +2,7 @@
 title: "Microscopy"
 layout: gridlay
 sitemap: false
-permalink: /Microscopy/
+permalink: /microscopy/
 ---
 
 <style>

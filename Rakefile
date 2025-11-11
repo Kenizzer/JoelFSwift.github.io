@@ -1,4 +1,4 @@
-# From: https://github.com/ainc/awesomeinc2013/blob/master/Rakefile
+# From: https://github.com/ainc/awesomeinc2013/blob/master/Rakefile 
 
 require "rubygems"
 require "tmpdir"
@@ -8,7 +8,7 @@ require "jekyll"
 
 ENV["JEKYLL_ENV"] = "production"
 
-desc "Generate site files"
+desc "Generate blog files"
 task :generate do
   Jekyll::Site.new(Jekyll.configuration({
     "source"      => ".",
@@ -16,7 +16,8 @@ task :generate do
   })).process
 end
 
-desc "Build and publish site to GitHub Pages"
+
+desc "Generate and publish blog to gh-pages"
 task :publish => [:generate] do
   Dir.mktmpdir do |tmp|
     cp_r "_site/.", tmp
@@ -28,10 +29,7 @@ task :publish => [:generate] do
     system "git add ."
     message = "Site updated at #{Time.now.utc}"
     system "git commit -m #{message.inspect}"
-
-    # ✅ Use your real repo and correct branch
-    system "git branch -M main"
-    system "git remote add origin git@github.com:joelfswift/joelfswift.github.io.git"
+    system "git remote add origin git@github.com:Kenizzer/JoelFSwift.github.io.git"
     system "git push -f origin main"
 
     Dir.chdir pwd
