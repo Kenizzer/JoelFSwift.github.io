@@ -30,7 +30,7 @@ iframe {
 }
 </style>
 
-## Cool photos right off the scope!
+## Cool Photos off the Scope
 
 
 <div class="container">
